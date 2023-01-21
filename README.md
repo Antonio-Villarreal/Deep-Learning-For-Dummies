@@ -1,4 +1,4 @@
-# DeepLearningModels
+# Deep Learning Models + Education
 
 ## Table of Contents
 - [Models](#models)

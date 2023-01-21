@@ -1,5 +1,8 @@
 # DeepLearningModels
 
+## Table of Contents
+- [Deep Neural Network (DNN)](#deep-neural-network)
+
 ## Deep Neural Network (DNN)
 
 - [Deep Neural Network](https://colab.research.google.com/drive/1ydb9ww3bMfoFe74xJAxrBftPDytn42X2?usp=sharing) created using TensorFlow/Keras and the MNIST dataset. 60,000 images each 28 pixels x 28 pixels with 10 possible classifications.

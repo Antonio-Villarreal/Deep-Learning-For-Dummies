@@ -29,7 +29,7 @@
     - 4x4x64 (Input)
     - Hidden Layer: 1024 Nodes
     - Output Layer: 10 Nodes
-  -Details
+  - Details
     - Optimizer: adam
     - Loss Function: categorical_crossentropy
   - Accuracy

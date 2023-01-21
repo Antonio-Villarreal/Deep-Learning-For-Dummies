@@ -3,13 +3,12 @@
 ## Deep Neural Network
 
 - [Deep Neural Network](https://colab.research.google.com/drive/1ydb9ww3bMfoFe74xJAxrBftPDytn42X2?usp=sharing) created using TensorFlow/Keras and the MNIST dataset.
-  
-  -Layers
+  - Layers
     - Input Layer: 784 Nodes
     - Hidden Layer 1: 512 Nodes
     - Hidden Layer 2: 512 Nodes
     - Output Layer: 10 Nodes
-  -Details
+  - Details
     - Optimizer: adam
     - Loss Function: categorical_crossentropy
   - Accuracy

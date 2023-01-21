@@ -53,6 +53,8 @@
 
 ### Convolutional Neural Network Part 2
 
+![CNN2](https://github.com/Antonio-Villarreal/DeepLearningStuff/blob/main/Resources/VGG16.png)
+
 
 ## Courses
 

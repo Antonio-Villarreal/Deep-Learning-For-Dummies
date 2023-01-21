@@ -26,7 +26,9 @@
   - Accuracy
     - 98.12 %
 
-<img src="[http://....jpg](https://github.com/Antonio-Villarreal/DeepLearningModels/blob/main/Resources/Neural%20Network%20Visual.jpeg)" width="200" height="200" />
+<p align="center">
+<img src="https://github.com/Antonio-Villarreal/DeepLearningModels/blob/main/Resources/Neural%20Network%20Visual.jpeg" width="200" />
+</p>
   
 ![DNN](https://github.com/Antonio-Villarreal/DeepLearningModels/blob/main/Resources/Neural%20Network%20Visual.jpeg)
 

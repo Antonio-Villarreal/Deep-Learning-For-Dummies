@@ -4,6 +4,7 @@
 - [Models](#models)
   - [Deep Neural Network (DNN)](#deep-neural-network)
   - [Convolutional Neural Network (CNN)](#convolutional-neural-network)
+  - [Convolutional Neural Network + ImageNet + VGG16](#convolutional-neural-network-imagenet-vgg16)
 - [Courses](#courses)
 - [Resources](#resources)
   - [TensorFlow](#tensorflow)
@@ -49,6 +50,9 @@
     - 99.30 %
 
 ![CNN](https://github.com/Antonio-Villarreal/DeepLearningModels/blob/main/Resources/Convolutional%20Neural%20Network.png)
+
+### Convolutional Neural Network + ImageNet + VGG16
+
 
 ## Courses
 

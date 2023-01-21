@@ -4,7 +4,7 @@
 - [Models](#models)
   - [Deep Neural Network (DNN)](#deep-neural-network)
   - [Convolutional Neural Network (CNN)](#convolutional-neural-network)
-  - [Convolutional Neural Network + ImageNet + VGG16](#convolutional-neural-network-part-2)
+  - [Convolutional Neural Network (CNN) + ImageNet + VGG16](#convolutional-neural-network-part-2)
 - [Courses](#courses)
 - [Resources](#resources)
   - [TensorFlow](#tensorflow)

@@ -1,4 +1,4 @@
-# Deep Learning Models + Education
+# Deep Learning For Dummies
 
 ## Table of Contents
 - [Models](#models)

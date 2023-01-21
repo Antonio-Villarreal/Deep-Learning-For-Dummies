@@ -59,7 +59,7 @@
   - ImageNet + VGG16
   - TensorFlow
   
- - [TensorFlow: Working with Images](https://www.linkedin.com/learning/tensorflow-working-with-images/work-with-gray-and-color-images-using-transfer-learning-and-fine-tuning?u=41282748)
+- [TensorFlow: Working with Images](https://www.linkedin.com/learning/tensorflow-working-with-images/work-with-gray-and-color-images-using-transfer-learning-and-fine-tuning?u=41282748)
   - Neural Networks and Images (TensorFlow Hub, Hyperparameters)
   - Transfer Learning
   - Monitoring the Training Process (ModelCheckpoint, EarlyStopping, Tensorboard

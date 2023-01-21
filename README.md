@@ -3,6 +3,7 @@
 ## Deep Neural Network
 
 - [Deep Neural Network](https://colab.research.google.com/drive/1ydb9ww3bMfoFe74xJAxrBftPDytn42X2?usp=sharing) created using TensorFlow/Keras and the MNIST dataset.
+  
   -Layers
     - Input Layer: 784 Nodes
     - Hidden Layer 1: 512 Nodes

@@ -1,15 +1,17 @@
 # DeepLearningModels
 
 ## Table of Contents
-- [Deep Neural Network (DNN)](#deep-neural-network)
-- [Convolutional Neural Network (CNN)](#convolutional-neural-network)
+- [Models](#models)
+  - [Deep Neural Network (DNN)](#deep-neural-network)
+  - [Convolutional Neural Network (CNN)](#convolutional-neural-network)
 - [Courses](#courses)
 - [Resources](#resources)
   - [TensorFlow](#tensorflow)
   - [Keras](#keras)
   - [PyTorch](#pytorch)
 
-## Deep Neural Network
+## Models
+### Deep Neural Network
 
 - [Deep Neural Network](https://colab.research.google.com/drive/1ydb9ww3bMfoFe74xJAxrBftPDytn42X2?usp=sharing) created using TensorFlow/Keras and the MNIST dataset. 60,000 images each 28 pixels x 28 pixels with 10 possible classifications.
   - Layers
@@ -25,7 +27,7 @@
   
 ![DNN](https://github.com/Antonio-Villarreal/DeepLearningModels/blob/main/Resources/Neural%20Network%20Visual.jpeg)
 
-## Convolutional Neural Network
+### Convolutional Neural Network
 
 - [Convolutional Neural Network](https://colab.research.google.com/drive/1DcrntEMfznsbIOT0yzZbGDTF9UGslY81#scrollTo=bP-s7oEidBri) created using TensorFlow/Keras and the MNIST dataset. The weights are preloaded from a file due to the time taken for each epoch.
   - Layers

@@ -1,8 +1,8 @@
 # DeepLearningModels
 
 ## Table of Contents
-- [Deep Neural Network (DNN)](#deep-neural-network)
-- [Convolutional Neural Network (CNN)](#convolutional-neural-network)
+- [Deep Neural Network (DNN)](#deep-neural-networkddn)
+- [Convolutional Neural Network (CNN)](#convolutional-neural-networkcnn)
 
 ## Deep Neural Network (DNN)
 

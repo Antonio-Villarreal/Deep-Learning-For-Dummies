@@ -53,6 +53,8 @@
 
 ### Convolutional Neural Network Part 2
 
+- In Progress: VGG16 + Convolutional Neural Network Model
+
 ![CNN2](https://github.com/Antonio-Villarreal/DeepLearningStuff/blob/main/Resources/VGG16.png)
 
 

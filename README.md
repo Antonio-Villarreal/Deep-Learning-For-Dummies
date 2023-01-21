@@ -25,6 +25,8 @@
     - Loss Function: categorical_crossentropy
   - Accuracy
     - 98.12 %
+
+<img src="[http://....jpg](https://github.com/Antonio-Villarreal/DeepLearningModels/blob/main/Resources/Neural%20Network%20Visual.jpeg)" width="200" height="200" />
   
 ![DNN](https://github.com/Antonio-Villarreal/DeepLearningModels/blob/main/Resources/Neural%20Network%20Visual.jpeg)
 

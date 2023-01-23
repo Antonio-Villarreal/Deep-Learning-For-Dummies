@@ -47,7 +47,7 @@
     - Loss Function: categorical_crossentropy
   - Accuracy
     - 99.30 %
-
+![CNN](https://github.com/Antonio-Villarreal/Deep-Learning-For-Dummies/blob/main/Resources/CNN.jpeg)
 ![CNN](https://github.com/Antonio-Villarreal/DeepLearningModels/blob/main/Resources/Convolutional%20Neural%20Network.png)
 
 ### VGG-16 Architecture
@@ -103,7 +103,6 @@
     Non-trainable params: 0
     _________________________________________________________________
 ```
-
 ![CNN2](https://github.com/Antonio-Villarreal/DeepLearningStuff/blob/main/Resources/VGG16.png)
 
 

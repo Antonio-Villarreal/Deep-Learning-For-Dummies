@@ -1,8 +1,8 @@
 # Deep Learning For Dummies
 
 - [Models](#models)
-  - [Deep Neural Network (DNN)](#deep-neural-network)
-  - [Convolutional Neural Network (CNN)](#convolutional-neural-network)
+  - [Deep Neural Network (DNN)](#deep-neural-networks)
+  - [Convolutional Neural Network (CNN)](#convolutional-neural-networks)
     - [VGG16 Architecture](#vgg-16-architecture)
 - [Courses](#courses)
 - [Resources](#resources)

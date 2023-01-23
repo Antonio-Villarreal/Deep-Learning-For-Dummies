@@ -11,8 +11,8 @@
   - [Keras](#keras)
   - [PyTorch](#pytorch)
 
-## Models
-### Deep Neural Network
+# Models
+## Deep Neural Networks
 
 - [Deep Neural Network](https://colab.research.google.com/drive/1ydb9ww3bMfoFe74xJAxrBftPDytn42X2?usp=sharing) created using TensorFlow/Keras and the MNIST dataset. 60,000 images each 28 pixels x 28 pixels with 10 possible classifications.
   - Layers
@@ -28,7 +28,7 @@
   
 ![DNN](https://github.com/Antonio-Villarreal/DeepLearningModels/blob/main/Resources/Neural%20Network%20Visual.jpeg)
 
-### Convolutional Neural Network
+## Convolutional Neural Networks
 
 - [Convolutional Neural Network](https://colab.research.google.com/drive/1DcrntEMfznsbIOT0yzZbGDTF9UGslY81#scrollTo=bP-s7oEidBri) created using TensorFlow/Keras and the MNIST dataset. The weights are preloaded from a file due to the time taken for each epoch.
   - Layers
@@ -51,14 +51,14 @@
 
 ![CNN](https://github.com/Antonio-Villarreal/DeepLearningModels/blob/main/Resources/Convolutional%20Neural%20Network.png)
 
-### Convolutional Neural Network Part 2
+### VGG-16 Architecture
 
 - In Progress: VGG16 + Convolutional Neural Network Model
 
 ![CNN2](https://github.com/Antonio-Villarreal/DeepLearningStuff/blob/main/Resources/VGG16.png)
 
 
-## Courses
+# Courses
 
 - [Neural Networks and Convolutional Neural Networks Essential Training](https://www.linkedin.com/learning/neural-networks-and-convolutional-neural-networks-essential-training/welcome?autoplay=true&resume=false&u=41282748)
   - Introduction to Neural Networks (Fundamentals, XOR Challenege)
@@ -97,20 +97,20 @@
 - [DeepLizard Videos](https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) 
   - INCOMPLETE
   
-## Resources
+# Resources
 - [Deep Learning State of the Art (2020)](https://www.youtube.com/watch?v=0VH1Lim8gL8&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 - [Complete MIT Deep Learning Course](https://deeplearning.mit.edu/)
 - [Deep Learning MIT Book](https://www.deeplearningbook.org/)
 - [OneNote](https://uflorida-my.sharepoint.com/:o:/g/personal/a_villarreal1_ufl_edu/EqN_9uO1-XNMmhl5iqskOEYBs22S03ytZV7OD-RiHwK_4g?e=oHywni)
 
-### TensorFlow
+## TensorFlow
 - [Documentation](https://www.tensorflow.org/api_docs)
 - [TensorFlow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.82501&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 - [TensorFlow Hub](https://www.tensorflow.org/hub)
 
-### Keras
+## Keras
 - [Documentation](https://keras.io/)
 
-### PyTorch
+## PyTorch
 - [Documentation](https://pytorch.org/docs/stable/index.html)
 - [Learn PyTorch](https://www.learnpytorch.io/)

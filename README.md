@@ -54,7 +54,7 @@
 
 - [VGG-16 Minimalist Predictor Model](https://colab.research.google.com/drive/1Q-PJClS1XzEHucVvsiO1kf7DgMXIWakY?usp=sharing) created using Keras with an imported version of VGG-16 and imported weights. It trains the model with the ImageNet dataset and enables you to pass an image into the model. It tries to predict what the image is and classify it based on the [categories](https://github.com/Antonio-Villarreal/Deep-Learning-For-Dummies/blob/main/Resources/Neural%20Networks%20and%20Convolutional%20Neural%20Networks/Ch07/07_02/data/synset_words.txt) offered by ImageNet.
 
-#### Layers
+#### VGG-16 Model Summary AKA Neural Network Layers
 ```
     _________________________________________________________________
      Layer (type)                Output Shape              Param #   

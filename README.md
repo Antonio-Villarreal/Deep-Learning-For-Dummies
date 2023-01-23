@@ -167,3 +167,8 @@
 ## PyTorch
 - [Documentation](https://pytorch.org/docs/stable/index.html)
 - [Learn PyTorch](https://www.learnpytorch.io/)
+- [Training A Classifier](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
+
+## CNNs
+-[Convolutional Neural Networks (CNN) — Architecture Explained](https://medium.com/@draj0718/convolutional-neural-networks-cnn-architectures-explained-716fb197b243)
+- [VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION](https://arxiv.org/pdf/1409.1556.pdf)

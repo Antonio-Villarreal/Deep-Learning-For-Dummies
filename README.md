@@ -1,6 +1,5 @@
 # Deep Learning For Dummies
 
-## Table of Contents
 - [Models](#models)
   - [Deep Neural Network (DNN)](#deep-neural-network)
   - [Convolutional Neural Network (CNN)](#convolutional-neural-network)

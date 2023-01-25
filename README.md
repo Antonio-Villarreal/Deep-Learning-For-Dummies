@@ -106,7 +106,7 @@
 
 ### VGG-16 Architecture Pt 2
 
-- [VGG-16 Fashion MNIST Dataset Model](https://colab.research.google.com/drive/1TX1tFMLwGj4R0llDvkNnawWkH3zjttdi?usp=sharing) created with Keras imported version of VGG-16 (but no pretrained weights). 1 Epoch takes approximately 1875 seconds which is ~32 minutes.
+- [VGG-16 Fashion MNIST Dataset Model](https://colab.research.google.com/drive/1TX1tFMLwGj4R0llDvkNnawWkH3zjttdi?usp=sharing) created with Keras imported version of VGG-16. 1 Epoch takes approximately 1875 seconds which is ~32 minutes.
 
 ![CNN](https://github.com/Antonio-Villarreal/Deep-Learning-For-Dummies/blob/main/Resources/CNN.jpeg)
 

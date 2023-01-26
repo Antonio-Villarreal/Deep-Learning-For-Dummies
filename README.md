@@ -2,7 +2,9 @@
 
 - [Models](#models)
   - [Deep Neural Network (DNN)](#deep-neural-networks)
+    - [DNN Pt 1](#dnn-pt-1)
   - [Convolutional Neural Network (CNN)](#convolutional-neural-networks)
+    - [CNN Pt 1](#cnn-pt-1)
     - [VGG16 Architecture Part 1](#vgg-16-architecture-pt-1)
     - [VGG16 Architecture Part 2](#vgg-16-architecture-pt-2)
     - [VGG16 Architecture Part 3](#vgg-16-architecture-pt-3)
@@ -15,6 +17,7 @@
 # Models
 ## Deep Neural Networks
 
+### DNN Pt 1
 - [Deep Neural Network](https://colab.research.google.com/drive/1ydb9ww3bMfoFe74xJAxrBftPDytn42X2?usp=sharing) created using TensorFlow/Keras and the MNIST dataset. 60,000 images each 28 pixels x 28 pixels with 10 possible classifications.
   - Layers
     - Input Layer: 784 Nodes
@@ -31,6 +34,7 @@
 
 ## Convolutional Neural Networks
 
+### CNN Pt 1
 - [Convolutional Neural Network](https://colab.research.google.com/drive/1DcrntEMfznsbIOT0yzZbGDTF9UGslY81#scrollTo=bP-s7oEidBri) created using TensorFlow/Keras and the MNIST dataset. The weights are preloaded from a file due to the time taken for each epoch.
   - Layers
     - 28x28x1

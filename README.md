@@ -3,7 +3,9 @@
 - [Models](#models)
   - [Deep Neural Network (DNN)](#deep-neural-networks)
   - [Convolutional Neural Network (CNN)](#convolutional-neural-networks)
-    - [VGG16 Architecture](#vgg-16-architecture-pt-1)
+    - [VGG16 Architecture Part 1](#vgg-16-architecture-pt-1)
+    - [VGG16 Architecture Part 2](#vgg-16-architecture-pt-2)
+    - [VGG16 Architecture Part 3](#vgg-16-architecture-pt-3)
 - [Courses](#courses)
 - [Resources](#resources)
   - [TensorFlow](#tensorflow)
@@ -108,8 +110,11 @@
 
 - [VGG-16 Fashion MNIST Dataset Model](https://colab.research.google.com/drive/1TX1tFMLwGj4R0llDvkNnawWkH3zjttdi?usp=sharing) created with Keras imported version of VGG-16. 1 Epoch takes approximately 1875 seconds which is ~32 minutes.
 
-![CNN](https://github.com/Antonio-Villarreal/Deep-Learning-For-Dummies/blob/main/Resources/CNN.jpeg)
+### VGG-16 Architecture Pt 3
 
+- [VGG16 CIFAR 10](https://colab.research.google.com/drive/1K-MRNYbKoac4PwhYMi_Q_T0BdgtaW6dZ?usp=sharing) created imported and non imported models to experiement/compare accuracy.
+
+![CNN](https://github.com/Antonio-Villarreal/Deep-Learning-For-Dummies/blob/main/Resources/CNN.jpeg)
 
 # Courses
 

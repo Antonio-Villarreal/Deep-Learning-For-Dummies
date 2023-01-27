@@ -74,11 +74,6 @@
   <img src="https://github.com/Antonio-Villarreal/Deep-Learning-For-Dummies/blob/main/Resources/Screenshot_20230126_110438.png" />
   <img src="https://github.com/Antonio-Villarreal/Deep-Learning-For-Dummies/blob/main/Resources/Screenshot_20230127_111359.png" />
 </p>
-  
-
-![Results](https://github.com/Antonio-Villarreal/Deep-Learning-For-Dummies/blob/main/Resources/Screenshot_20230126_110438.png)
-
-![Results 2](https://github.com/Antonio-Villarreal/Deep-Learning-For-Dummies/blob/main/Resources/Screenshot_20230127_111359.png)
 
 # Courses
 

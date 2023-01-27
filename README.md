@@ -4,9 +4,7 @@
   - [Deep Neural Network (DNN)](#deep-neural-networks)
     - [DNN Pt 1](#dnn-pt-1)
   - [Convolutional Neural Network (CNN)](#convolutional-neural-networks)
-    - [CNN Pt 1](#cnn-pt-1)
-    - [VGG16 Architecture Part 1](#vgg-16-architecture-pt-1)
-    - [VGG16 Architecture Part 2](#vgg-16-architecture-pt-2)
+  - [VGG16 Architecture](#vgg-16-architecture)
 - [Courses](#courses)
 - [Resources](#resources)
   - [TensorFlow](#tensorflow)
@@ -33,7 +31,8 @@
 
 ## Convolutional Neural Networks
 
-### CNN Pt 1
+![CNN](https://github.com/Antonio-Villarreal/DeepLearningModels/blob/main/Resources/Convolutional%20Neural%20Network.png)
+
 - [Convolutional Neural Network](https://colab.research.google.com/drive/1DcrntEMfznsbIOT0yzZbGDTF9UGslY81#scrollTo=bP-s7oEidBri) created using TensorFlow/Keras and the MNIST dataset. The weights are preloaded from a file due to the time taken for each epoch.
   - Layers
     - 28x28x1
@@ -52,62 +51,14 @@
     - Loss Function: categorical_crossentropy
   - Accuracy
     - 99.30 %
-![CNN](https://github.com/Antonio-Villarreal/DeepLearningModels/blob/main/Resources/Convolutional%20Neural%20Network.png)
 
-### VGG-16 Architecture Pt 1
+### VGG-16 Architecture
+
+![CNN2](https://github.com/Antonio-Villarreal/DeepLearningStuff/blob/main/Resources/VGG16.png)
 
 - [VGG-16 Pretrained Predictor Model with ImageNet](https://colab.research.google.com/drive/1Q-PJClS1XzEHucVvsiO1kf7DgMXIWakY?usp=sharing) created using Keras with an imported version of VGG-16 and imported weights. It trains the model with the ImageNet dataset and enables you to pass an image into the model. It tries to predict what the image is and classify it based on the [categories](https://github.com/Antonio-Villarreal/Deep-Learning-For-Dummies/blob/main/Resources/Neural%20Networks%20and%20Convolutional%20Neural%20Networks/Ch07/07_02/data/synset_words.txt) offered by ImageNet.
 
-#### VGG-16 Model Summary AKA Neural Network Layers
-```
-    _________________________________________________________________
-     Layer (type)                Output Shape              Param #   
-    =================================================================
-     input_3 (InputLayer)        [(None, 32, 32, 3)]       0         
 
-     block1_conv1 (Conv2D)       (None, 32, 32, 64)        1792      
-
-     block1_conv2 (Conv2D)       (None, 32, 32, 64)        36928     
-
-     block1_pool (MaxPooling2D)  (None, 16, 16, 64)        0         
-
-     block2_conv1 (Conv2D)       (None, 16, 16, 128)       73856     
-
-     block2_conv2 (Conv2D)       (None, 16, 16, 128)       147584    
-
-     block2_pool (MaxPooling2D)  (None, 8, 8, 128)         0         
-
-     block3_conv1 (Conv2D)       (None, 8, 8, 256)         295168    
-
-     block3_conv2 (Conv2D)       (None, 8, 8, 256)         590080    
-
-     block3_conv3 (Conv2D)       (None, 8, 8, 256)         590080    
-
-     block3_pool (MaxPooling2D)  (None, 4, 4, 256)         0         
-
-     block4_conv1 (Conv2D)       (None, 4, 4, 512)         1180160   
-
-     block4_conv2 (Conv2D)       (None, 4, 4, 512)         2359808   
-
-     block4_conv3 (Conv2D)       (None, 4, 4, 512)         2359808   
-
-     block4_pool (MaxPooling2D)  (None, 2, 2, 512)         0         
-
-     block5_conv1 (Conv2D)       (None, 2, 2, 512)         2359808   
-
-     block5_conv2 (Conv2D)       (None, 2, 2, 512)         2359808   
-
-     block5_conv3 (Conv2D)       (None, 2, 2, 512)         2359808   
-
-     block5_pool (MaxPooling2D)  (None, 1, 1, 512)         0         
-
-    =================================================================
-    Total params: 14,714,688
-    Trainable params: 14,714,688
-    Non-trainable params: 0
-    _________________________________________________________________
-```
-![CNN2](https://github.com/Antonio-Villarreal/DeepLearningStuff/blob/main/Resources/VGG16.png)
 
 ### VGG-16 Architecture Pt 2
 

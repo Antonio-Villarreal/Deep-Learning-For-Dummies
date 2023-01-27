@@ -2,9 +2,12 @@
 
 - [Models](#models)
   - [Deep Neural Network (DNN)](#deep-neural-networks)
-    - [DNN Pt 1](#dnn-pt-1)
-  - [Convolutional Neural Network (CNN)](#convolutional-neural-networks)
+    - [Model 1](#model-1)
+  - [Convolutional Neural Network (CNN)](#convolutional-neural-networks
+    - [Model 1](#model-1)
   - [VGG16 Architecture](#vgg-16-architecture)
+    - [Model 1](#model-1)
+    - [Model 2](#model-2)
 - [Courses](#courses)
 - [Resources](#resources)
   - [TensorFlow](#tensorflow)
@@ -14,7 +17,8 @@
 # Models
 ## Deep Neural Networks
 
-### DNN Pt 1
+### Model 1
+
 - [Deep Neural Network](https://colab.research.google.com/drive/1ydb9ww3bMfoFe74xJAxrBftPDytn42X2?usp=sharing) created using TensorFlow/Keras and the MNIST dataset. 60,000 images each 28 pixels x 28 pixels with 10 possible classifications.
   - Layers
     - Input Layer: 784 Nodes
@@ -32,6 +36,8 @@
 ## Convolutional Neural Networks
 
 ![CNN](https://github.com/Antonio-Villarreal/DeepLearningModels/blob/main/Resources/Convolutional%20Neural%20Network.png)
+
+### Model 1
 
 - [Convolutional Neural Network](https://colab.research.google.com/drive/1DcrntEMfznsbIOT0yzZbGDTF9UGslY81#scrollTo=bP-s7oEidBri) created using TensorFlow/Keras and the MNIST dataset. The weights are preloaded from a file due to the time taken for each epoch.
   - Layers
@@ -52,15 +58,15 @@
   - Accuracy
     - 99.30 %
 
-### VGG-16 Architecture
+## VGG-16 Architecture
 
 ![CNN2](https://github.com/Antonio-Villarreal/DeepLearningStuff/blob/main/Resources/VGG16.png)
 
+### Model 1
+
 - [VGG-16 Pretrained Predictor Model with ImageNet](https://colab.research.google.com/drive/1Q-PJClS1XzEHucVvsiO1kf7DgMXIWakY?usp=sharing) created using Keras with an imported version of VGG-16 and imported weights. It trains the model with the ImageNet dataset and enables you to pass an image into the model. It tries to predict what the image is and classify it based on the [categories](https://github.com/Antonio-Villarreal/Deep-Learning-For-Dummies/blob/main/Resources/Neural%20Networks%20and%20Convolutional%20Neural%20Networks/Ch07/07_02/data/synset_words.txt) offered by ImageNet.
 
-
-
-### VGG-16 Architecture Pt 2
+### Model 2
 
 - [VGG16 Adaptations](https://colab.research.google.com/drive/1FT6ZLGHZ_m6JP31eYN6RBDZHkAKxMnW1?usp=sharing) uses the CIFAR10 dataset. There are multiple models that are meant to mimic VGG16, but are slightly adapted due to the image sizes being 32x32 versus 244x244. I experiement with Convolutional Layers, Batch Normalization, Dropout, and Batch Size while trying to beat the imported VGG16 model. 
 

@@ -72,6 +72,8 @@
 
 ![Results](https://github.com/Antonio-Villarreal/Deep-Learning-For-Dummies/blob/main/Resources/Screenshot_20230126_110438.png)
 
+![Results 2](https://github.com/Antonio-Villarreal/Deep-Learning-For-Dummies/blob/main/Resources/Screenshot_20230127_111359.png)
+
 # Courses
 
 - [Neural Networks and Convolutional Neural Networks Essential Training](https://www.linkedin.com/learning/neural-networks-and-convolutional-neural-networks-essential-training/welcome?autoplay=true&resume=false&u=41282748)

@@ -37,7 +37,7 @@
 
 ![CNN](https://github.com/Antonio-Villarreal/DeepLearningModels/blob/main/Resources/Convolutional%20Neural%20Network.png)
 
-### Model 1 - CNN
+### Model 1 (CNN)
 
 - [Convolutional Neural Network](https://colab.research.google.com/drive/1DcrntEMfznsbIOT0yzZbGDTF9UGslY81#scrollTo=bP-s7oEidBri) created using TensorFlow/Keras and the MNIST dataset. The weights are preloaded from a file due to the time taken for each epoch.
   - Layers
@@ -62,11 +62,11 @@
 
 ![CNN2](https://github.com/Antonio-Villarreal/DeepLearningStuff/blob/main/Resources/VGG16.png)
 
-### Model 1 - VGG16
+### Model 1 (VGG16)
 
 - [VGG-16 Pretrained Predictor Model with ImageNet](https://colab.research.google.com/drive/1Q-PJClS1XzEHucVvsiO1kf7DgMXIWakY?usp=sharing) created using Keras with an imported version of VGG-16 and imported weights. It trains the model with the ImageNet dataset and enables you to pass an image into the model. It tries to predict what the image is and classify it based on the [categories](https://github.com/Antonio-Villarreal/Deep-Learning-For-Dummies/blob/main/Resources/Neural%20Networks%20and%20Convolutional%20Neural%20Networks/Ch07/07_02/data/synset_words.txt) offered by ImageNet.
 
-### Model 2 - VGG16
+### Model 2 (VGG16)
 
 - [VGG16 Adaptations](https://colab.research.google.com/drive/1FT6ZLGHZ_m6JP31eYN6RBDZHkAKxMnW1?usp=sharing) uses the CIFAR10 dataset. There are multiple models that are meant to mimic VGG16, but are slightly adapted due to the image sizes being 32x32 versus 244x244. I experiement with Convolutional Layers, Batch Normalization, Dropout, and Batch Size while trying to beat the imported VGG16 model. 
 

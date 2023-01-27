@@ -70,7 +70,7 @@
 
 - [VGG16 Adaptations](https://colab.research.google.com/drive/1FT6ZLGHZ_m6JP31eYN6RBDZHkAKxMnW1?usp=sharing) uses the CIFAR10 dataset. There are multiple models that are meant to mimic VGG16, but are slightly adapted due to the image sizes being 32x32 versus 244x244. I experiement with Convolutional Layers, Batch Normalization, Dropout, and Batch Size while trying to beat the imported VGG16 model. 
 
-![Results](https://github.com/Antonio-Villarreal/Deep-Learning-For-Dummies/blob/main/Resources/VGG16-2%20Graphs.png)
+![Results](https://github.com/Antonio-Villarreal/Deep-Learning-For-Dummies/blob/main/Resources/Screenshot_20230126_110438.png)
 
 # Courses
 

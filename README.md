@@ -19,6 +19,8 @@
 
 ### Model 1
 
+![DNN](https://github.com/Antonio-Villarreal/DeepLearningModels/blob/main/Resources/Neural%20Network%20Visual.jpeg)
+
 - [Deep Neural Network](https://colab.research.google.com/drive/1ydb9ww3bMfoFe74xJAxrBftPDytn42X2?usp=sharing) created using TensorFlow/Keras and the MNIST dataset. 60,000 images each 28 pixels x 28 pixels with 10 possible classifications.
   - Layers
     - Input Layer: 784 Nodes
@@ -30,8 +32,6 @@
     - Loss Function: categorical_crossentropy
   - Accuracy
     - 98.12 %
-  
-![DNN](https://github.com/Antonio-Villarreal/DeepLearningModels/blob/main/Resources/Neural%20Network%20Visual.jpeg)
 
 ## Convolutional Neural Networks
 

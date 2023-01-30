@@ -71,14 +71,14 @@
 
 - [VGG16 Adaptations](https://colab.research.google.com/drive/1FT6ZLGHZ_m6JP31eYN6RBDZHkAKxMnW1?usp=sharing) uses the CIFAR10 dataset. There are multiple models that are meant to mimic VGG16, but are slightly adapted due to the image sizes being 32x32 versus 244x244. I experiement with Convolutional Layers, Batch Normalization, Dropout, and Batch Size while trying to beat the imported VGG16 model.
 
-### Model 3 (VGG16)
-
-- [VGG16 with Birds Dataset](https://colab.research.google.com/drive/1lw8G7U36IKlG7gHqG6eqshIcgi06Blyk?usp=sharing) practices creating a VGG16 like architecture with PyTorch based on this [dataset](https://www.kaggle.com/datasets/gpiosenka/100-bird-species?datasetId=534640&searchQuery=vgg16) of 224x224 images.
-
 <p float="center">
   <img src="https://github.com/Antonio-Villarreal/Deep-Learning-For-Dummies/blob/main/Resources/Screenshot_20230126_110438.png" />
   <img src="https://github.com/Antonio-Villarreal/Deep-Learning-For-Dummies/blob/main/Resources/Screenshot_20230127_111359.png" />
 </p>
+
+### Model 3 (VGG16)
+
+- [VGG16 with Birds Dataset](https://colab.research.google.com/drive/1lw8G7U36IKlG7gHqG6eqshIcgi06Blyk?usp=sharing) practices creating a VGG16 like architecture with PyTorch based on this [dataset](https://www.kaggle.com/datasets/gpiosenka/100-bird-species?datasetId=534640&searchQuery=vgg16) of 224x224 images.
 
 # Courses
 

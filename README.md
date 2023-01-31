@@ -113,9 +113,6 @@
 - [Transfer Learning for Images Using PyTorch: Essential Training](https://www.linkedin.com/learning/transfer-learning-for-images-using-pytorch-essential-training/welcome?autoplay=true&u=41282748)
   - INCOMPLETE
   
-- [Hands-On PyTorch Machine Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/explore-the-capabilities-of-pytorch?autoplay=true&u=41282748)
-  - INCOMPLETE
-  
 - [DeepLizard Videos](https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) 
   - [Notes](https://colab.research.google.com/drive/1XG4lOUjl5sMySK4TxqWEUaGmhnOa85uA?usp=sharing)
   

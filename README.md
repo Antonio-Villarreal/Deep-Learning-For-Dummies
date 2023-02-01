@@ -80,6 +80,10 @@
 
 - [VGG16 with Birds Dataset](https://colab.research.google.com/drive/1lw8G7U36IKlG7gHqG6eqshIcgi06Blyk?usp=sharing) practices creating a VGG16 like architecture with PyTorch based on this [dataset](https://www.kaggle.com/datasets/gpiosenka/100-bird-species?datasetId=534640&searchQuery=vgg16) of 224x224 images.
 
+### Model 4 (VGG!^)
+
+- [VGG16 from Scratch using PyTorch and CIFAR10 Dataset](https://colab.research.google.com/drive/1gFEMRUpINFR2Y81p9l0aD-4FfnBhEQzR?usp=sharing)
+
 # Courses
 
 - [Neural Networks and Convolutional Neural Networks Essential Training](https://www.linkedin.com/learning/neural-networks-and-convolutional-neural-networks-essential-training/welcome?autoplay=true&resume=false&u=41282748)

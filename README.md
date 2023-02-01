@@ -10,6 +10,7 @@
     - [Model 2](#model-2-vgg16)
     - [Model 3](#model-3-vgg16)
     - [Model 4](#model-4-vgg16)
+  - [UNET Architecture (UNET)](#unet-architecture)
 - [Courses](#courses)
 - [Resources](#resources)
   - [TensorFlow](#tensorflow)
@@ -84,6 +85,8 @@
 ### Model 4 (VGG16)
 
 - [VGG16 from Scratch using PyTorch and CIFAR10 Dataset](https://colab.research.google.com/drive/1gFEMRUpINFR2Y81p9l0aD-4FfnBhEQzR?usp=sharing)
+
+## UNET Architecture
 
 # Courses
 

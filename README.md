@@ -140,7 +140,10 @@
   - PyTorch basics, classes, and layers
 
 - [Getting Started with PyTorch Lightning for Deep Learning](https://www.youtube.com/watch?v=aPVGQqrZaaU) (INCOMPLETE)
-  - PyTorch Lightning, Deep Learning 
+  - PyTorch Lightning, Deep Learning
+  
+- [PyTorch Image Segmentation Tutorial with U-NET: everything from scratch baby](https://www.youtube.com/watch?v=IHq1t7NxS8k)
+  - PyTorch, UNET, Image Segmentation
   
 # Resources
 - [Deep Learning State of the Art (2020)](https://www.youtube.com/watch?v=0VH1Lim8gL8&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)

@@ -11,7 +11,7 @@
     - [Model 3](#model-3-vgg16)
     - [Model 4](#model-4-vgg16)
   - [UNET Architecture](#unet-architecture)
-    - [Model 1](#model-1-unet]
+    - [Model 1](#model-1-unet)
 - [Courses](#courses)
 - [Resources](#resources)
   - [TensorFlow](#tensorflow)

@@ -88,6 +88,8 @@
 
 ## UNET Architecture
 
+![UNET](https://github.com/Antonio-Villarreal/Deep-Learning-For-Dummies/blob/main/Resources/UNET.png)
+
 # Courses
 
 - [Neural Networks and Convolutional Neural Networks Essential Training](https://www.linkedin.com/learning/neural-networks-and-convolutional-neural-networks-essential-training/welcome?autoplay=true&resume=false&u=41282748)

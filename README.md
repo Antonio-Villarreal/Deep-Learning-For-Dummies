@@ -10,7 +10,7 @@
     - [Model 2](#model-2-vgg16)
     - [Model 3](#model-3-vgg16)
     - [Model 4](#model-4-vgg16)
-  - [UNET Architecture (UNET)](#unet-architecture)
+  - [UNET Architecture](#unet-architecture)
 - [Courses](#courses)
 - [Resources](#resources)
   - [TensorFlow](#tensorflow)

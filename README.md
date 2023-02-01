@@ -9,6 +9,7 @@
     - [Model 1](#model-1-vgg16)
     - [Model 2](#model-2-vgg16)
     - [Model 3](#model-3-vgg16)
+    - [Model 4](#model-4-vgg16)
 - [Courses](#courses)
 - [Resources](#resources)
   - [TensorFlow](#tensorflow)

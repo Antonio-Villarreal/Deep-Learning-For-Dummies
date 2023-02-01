@@ -84,7 +84,7 @@
 
 ### Model 3 (VGG16)
 
-- [VGG16 from Scratch using PyTorch and CIFAR10 Dataset](https://colab.research.google.com/drive/1gFEMRUpINFR2Y81p9l0aD-4FfnBhEQzR?usp=sharing)
+- [VGG16 from Scratch](https://colab.research.google.com/drive/1gFEMRUpINFR2Y81p9l0aD-4FfnBhEQzR?usp=sharing) uses PyTorch and the CIFAR10 Dataset. This is the best example of a Convolutional Neural Network implemented using PyTorch. Great reference for future models.
 
 ## UNET Architecture
 

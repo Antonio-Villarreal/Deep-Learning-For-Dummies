@@ -16,6 +16,7 @@
   - [TensorFlow](#tensorflow)
   - [Keras](#keras)
   - [PyTorch](#pytorch)
+  - [PyTorch Lightning](#pytorch-lightning)
 
 # Models
 ## Deep Neural Networks

@@ -142,7 +142,7 @@
 - [Getting Started with PyTorch Lightning for Deep Learning](https://www.youtube.com/watch?v=aPVGQqrZaaU) (INCOMPLETE)
   - PyTorch Lightning, Deep Learning
   
-- [PyTorch Image Segmentation Tutorial with U-NET: everything from scratch baby](https://www.youtube.com/watch?v=IHq1t7NxS8k)
+- [PyTorch Image Segmentation Tutorial with U-NET: everything from scratch baby](https://www.youtube.com/watch?v=IHq1t7NxS8k) (INCOMPLETE)
   - PyTorch, UNET, Image Segmentation
   
 # Resources

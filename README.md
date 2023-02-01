@@ -38,6 +38,9 @@
 
 ## Convolutional Neural Networks
 
+- [Convolutional Neural Networks (CNN) — Architecture Explained](https://medium.com/@draj0718/convolutional-neural-networks-cnn-architectures-explained-716fb197b243)
+- [VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION](https://arxiv.org/pdf/1409.1556.pdf)
+
 ![CNN](https://github.com/Antonio-Villarreal/DeepLearningModels/blob/main/Resources/Convolutional%20Neural%20Network.png)
 
 ### Model 1 (CNN)
@@ -88,7 +91,7 @@
 
 ## UNET Architecture
 
-UNET Architectures are used for [Image Segmentation](https://blog.paperspace.com/unet-architecture-image-segmentation/)
+- UNET Architectures are used for [Image Segmentation](https://blog.paperspace.com/unet-architecture-image-segmentation/)
 
 ![UNET](https://github.com/Antonio-Villarreal/Deep-Learning-For-Dummies/blob/main/Resources/UNET.png)
 
@@ -150,5 +153,4 @@ UNET Architectures are used for [Image Segmentation](https://blog.paperspace.com
 - [Training A Classifier](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
 
 ## CNNs
-- [Convolutional Neural Networks (CNN) — Architecture Explained](https://medium.com/@draj0718/convolutional-neural-networks-cnn-architectures-explained-716fb197b243)
-- [VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION](https://arxiv.org/pdf/1409.1556.pdf)
+

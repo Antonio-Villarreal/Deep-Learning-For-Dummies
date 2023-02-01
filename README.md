@@ -88,6 +88,8 @@
 
 ## UNET Architecture
 
+UNET Architectures are used for [Image Segmentation](https://blog.paperspace.com/unet-architecture-image-segmentation/)
+
 ![UNET](https://github.com/Antonio-Villarreal/Deep-Learning-For-Dummies/blob/main/Resources/UNET.png)
 
 # Courses

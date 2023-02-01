@@ -96,6 +96,10 @@
 
 ![UNET](https://github.com/Antonio-Villarreal/Deep-Learning-For-Dummies/blob/main/Resources/UNET.png)
 
+### Model 1 (UNET)
+
+- [Introduction](https://colab.research.google.com/drive/1TKJ9JvMNk3S_p2iOejz7UTishcVmrA96?usp=sharing) to using the UNET architecture and PyTorch Lightning for image segmentation
+
 # Courses
 
 - [Neural Networks and Convolutional Neural Networks Essential Training](https://www.linkedin.com/learning/neural-networks-and-convolutional-neural-networks-essential-training/welcome?autoplay=true&resume=false&u=41282748)

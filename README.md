@@ -157,6 +157,6 @@
 - [Training A Classifier](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
 
 ## PyTorch Lightning
-- [Documentation](https://www.pytorchlightning.ai/tutorials)
+- [Tutorials](https://www.pytorchlightning.ai/tutorials)
 
 

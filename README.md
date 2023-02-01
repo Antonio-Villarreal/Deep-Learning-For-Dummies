@@ -132,6 +132,9 @@
 - [DeepLizard Videos](https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) 
   - [Notes](https://colab.research.google.com/drive/1XG4lOUjl5sMySK4TxqWEUaGmhnOa85uA?usp=sharing)
   - PyTorch basics, classes, and layers
+
+- [Getting Started with PyTorch Lightning for Deep Learning](https://www.youtube.com/watch?v=aPVGQqrZaaU)
+  - PyTorch Lightning, Deep Learning 
   
 # Resources
 - [Deep Learning State of the Art (2020)](https://www.youtube.com/watch?v=0VH1Lim8gL8&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
@@ -152,5 +155,7 @@
 - [Learn PyTorch](https://www.learnpytorch.io/)
 - [Training A Classifier](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
 
-## CNNs
+## PyTorch Lightning
+- [Documentation](https://www.pytorchlightning.ai/tutorials)
+
 

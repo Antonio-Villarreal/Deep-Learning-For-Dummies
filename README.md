@@ -138,7 +138,7 @@
   - [Notes](https://colab.research.google.com/drive/1XG4lOUjl5sMySK4TxqWEUaGmhnOa85uA?usp=sharing)
   - PyTorch basics, classes, and layers
 
-- [Getting Started with PyTorch Lightning for Deep Learning](https://www.youtube.com/watch?v=aPVGQqrZaaU)
+- [Getting Started with PyTorch Lightning for Deep Learning](https://www.youtube.com/watch?v=aPVGQqrZaaU) (INCOMPLETE)
   - PyTorch Lightning, Deep Learning 
   
 # Resources

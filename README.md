@@ -94,7 +94,7 @@
 
 ### Model 1 (UNET)
 
-- [Introduction](https://colab.research.google.com/drive/1TKJ9JvMNk3S_p2iOejz7UTishcVmrA96?usp=sharing) to using the UNET architecture and PyTorch Lightning for image segmentation
+- [Introduction](https://colab.research.google.com/drive/1JtiTqwKPBe32qh8M7xIPlP4ZMS9MxLqM?usp=sharing) to using the UNET architecture and PyTorch Lightning for image segmentation
 
 # Courses
 

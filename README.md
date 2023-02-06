@@ -133,12 +133,12 @@
 - [DeepLizard Videos](https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) 
   - [Notes](https://colab.research.google.com/drive/1XG4lOUjl5sMySK4TxqWEUaGmhnOa85uA?usp=sharing)
   - PyTorch basics, classes, and layers
-
-- [Getting Started with PyTorch Lightning for Deep Learning](https://www.youtube.com/watch?v=aPVGQqrZaaU) (INCOMPLETE)
-  - PyTorch Lightning, Deep Learning
   
-- [PyTorch Image Segmentation Tutorial with U-NET: everything from scratch baby](https://www.youtube.com/watch?v=IHq1t7NxS8k) (INCOMPLETE)
+- [PyTorch Image Segmentation Tutorial with U-NET: everything from scratch baby](https://www.youtube.com/watch?v=IHq1t7NxS8k)
   - PyTorch, UNET, Image Segmentation
+  
+ - [Getting Started with PyTorch Lightning for Deep Learning](https://www.youtube.com/watch?v=aPVGQqrZaaU) (INCOMPLETE)
+  - PyTorch Lightning, Deep Learning
   
 # Resources
 - [Deep Learning State of the Art (2020)](https://www.youtube.com/watch?v=0VH1Lim8gL8&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)

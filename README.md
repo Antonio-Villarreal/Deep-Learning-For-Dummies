@@ -164,4 +164,5 @@
 
 ## PyTorch Lightning
 - [Tutorials](https://www.pytorchlightning.ai/tutorials)
+- [From PyTorch to PyTorch Lightning](https://www.youtube.com/watch?v=DbESHcCoWbM&list=PLaMu-SDt_RB5hhJKZC5a6HPdlDTawUT3r&index=2)
 - [Examples of PyTorch -> PyTorch Lightning](https://colab.research.google.com/drive/1-mLHUN4JnKC63kVUZuHRkp_aLWarkB0r?usp=sharing)

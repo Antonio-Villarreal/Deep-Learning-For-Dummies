@@ -94,7 +94,7 @@
 
 ### Model 1 (UNET)
 
-- [Introduction](https://colab.research.google.com/drive/1JtiTqwKPBe32qh8M7xIPlP4ZMS9MxLqM?usp=sharing) to using the UNET architecture and PyTorch Lightning for image segmentation
+- [Oxford Pets](https://colab.research.google.com/drive/1JtiTqwKPBe32qh8M7xIPlP4ZMS9MxLqM?usp=sharing) is a dataset with numerous types of pets and usesd a UNET architecture in PyTorch to segment images (no PyTorch Lightning).
 
 # Courses
 
@@ -164,5 +164,4 @@
 
 ## PyTorch Lightning
 - [Tutorials](https://www.pytorchlightning.ai/tutorials)
-
-
+- [Examples of PyTorch -> PyTorch Lightning](https://colab.research.google.com/drive/1-mLHUN4JnKC63kVUZuHRkp_aLWarkB0r?usp=sharing)

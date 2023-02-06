@@ -11,6 +11,7 @@
     - [Model 3](#model-3-vgg16)
   - [UNET Architecture](#unet-architecture)
     - [Model 1](#model-1-unet)
+    - [Model 2](#model-2-unet)
 - [Courses](#courses)
 - [Resources](#resources)
   - [TensorFlow](#tensorflow)
@@ -94,7 +95,11 @@
 
 ### Model 1 (UNET)
 
-- [Oxford Pets](https://colab.research.google.com/drive/1JtiTqwKPBe32qh8M7xIPlP4ZMS9MxLqM?usp=sharing) is a dataset with numerous types of pets and usesd a UNET architecture in PyTorch to segment images (no PyTorch Lightning).
+- [Oxford Pets](https://colab.research.google.com/drive/1JtiTqwKPBe32qh8M7xIPlP4ZMS9MxLqM?usp=sharing) is a dataset with numerous types of pets and usesd a UNET architecture in TensorFlow to segment images.
+
+### Model 2 (UNET)
+
+- [Carvana Image Segmentation](https://colab.research.google.com/drive/1JtiTqwKPBe32qh8M7xIPlP4ZMS9MxLqM?usp=sharing) is a dataset with numerous types of cars and is famous example for image segmentation. It uses PyTorch and an UNET architecture (no PyTorch Lightning).
 
 # Courses
 

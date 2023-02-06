@@ -137,8 +137,11 @@
 - [PyTorch Image Segmentation Tutorial with U-NET: everything from scratch baby](https://www.youtube.com/watch?v=IHq1t7NxS8k)
   - PyTorch, UNET, Image Segmentation
   
- - [Getting Started with PyTorch Lightning for Deep Learning](https://www.youtube.com/watch?v=aPVGQqrZaaU) (INCOMPLETE)
+- [Getting Started with PyTorch Lightning for Deep Learning](https://www.youtube.com/watch?v=aPVGQqrZaaU) (INCOMPLETE)
   - PyTorch Lightning, Deep Learning
+
+- [Learn PyTorch for deep learning in a day. Literally.](https://youtu.be/Z_ikDlimN6A) (INCOMPLETE)
+  - Everything PyTorch - Fundamentals, Workflow, Neural Network Classification, Computer Vision, Custom Datasets 
   
 # Resources
 - [Deep Learning State of the Art (2020)](https://www.youtube.com/watch?v=0VH1Lim8gL8&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)

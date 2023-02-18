@@ -12,6 +12,7 @@
   - [UNET Architecture](#unet-architecture)
     - [Model 1](#model-1-unet)
     - [Model 2](#model-2-unet)
+    - [Model 3](#model-3-unet)
 - [Courses](#courses)
 - [Resources](#resources)
   - [TensorFlow](#tensorflow)
@@ -100,6 +101,10 @@
 ### Model 2 (UNET)
 
 - [Carvana Image Segmentation](https://colab.research.google.com/drive/1JtiTqwKPBe32qh8M7xIPlP4ZMS9MxLqM?usp=sharing) is a dataset with numerous types of cars and is famous example for image segmentation. It uses PyTorch and an UNET architecture (no PyTorch Lightning).
+
+### Model 3 (UNET)
+
+-[Oxford Pets Part 2](https://colab.research.google.com/drive/1k62BBZ9O4z0f1fCb4UWsYCyJY7bd9dey?usp=sharing) is using PyTorch Lightning! Make sure to add Jacard and Dice Number for better metrics.
 
 # Courses
 

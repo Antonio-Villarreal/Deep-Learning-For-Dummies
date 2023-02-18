@@ -104,7 +104,7 @@
 
 ### Model 3 (UNET)
 
--[Oxford Pets Part 2](https://colab.research.google.com/drive/1k62BBZ9O4z0f1fCb4UWsYCyJY7bd9dey?usp=sharing) is using PyTorch Lightning! Make sure to add Jacard and Dice Number for better metrics.
+- [Oxford Pets Part 2](https://colab.research.google.com/drive/1k62BBZ9O4z0f1fCb4UWsYCyJY7bd9dey?usp=sharing) is using PyTorch Lightning! Make sure to add Jacard and Dice Number for better metrics.
 
 # Courses
 
